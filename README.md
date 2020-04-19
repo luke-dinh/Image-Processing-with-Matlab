@@ -12,3 +12,5 @@ This project includes:
 4. Vintage.m: create a new photo in a vintage look.
 
 5. imfilter_artistic.m, imfilter_border.m, filter3.m: a project. This project creates a new photo with a new look. The license of this project is also include in this file. 
+
+[license.txt](https://github.com/luke-dinh/Image-Processing-with-Matlab/files/4499094/license.txt)
